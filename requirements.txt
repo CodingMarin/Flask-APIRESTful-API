@@ -12,7 +12,7 @@ mysql-connector-python==8.0.32
 protobuf==5.27.2
 pycodestyle==2.10.0
 PyJWT==2.8.0
-python-dotenv==1.0.0
+python-dotenv==1.0.1
 pytz==2024.1
 six==1.16.0
 Werkzeug==3.0.3
