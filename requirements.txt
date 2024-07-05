@@ -15,4 +15,4 @@ PyJWT==2.6.0
 python-dotenv==1.0.0
 pytz==2023.2
 six==1.16.0
-Werkzeug==2.2.3
+Werkzeug==3.0.3
